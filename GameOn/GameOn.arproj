@@ -625,15 +625,15 @@
         },
         {
           "alphaPremultiplicationMode": "should_premultiply",
-          "assetDataHash": "bb15f526534c7972f27910327173a4e5",
+          "assetDataHash": "a414c015a5d62066a24e333b1996e93d",
           "assetLocator": "textures/glasses_icon.png",
           "children": [
             {
-              "assetDataHash": "bb15f526534c7972f27910327173a4e5",
-              "colorCount": 7139,
+              "assetDataHash": "a414c015a5d62066a24e333b1996e93d",
+              "colorCount": 50270,
               "detectedAlphaChannel": "no_alpha",
               "detectedOriginalFormat": "png",
-              "entropyOfDistribution": 3.2281051956335265,
+              "entropyOfDistribution": 11.960236982793878,
               "modelName": "data_texture_metadata_model",
               "name": "data_texture_metadata_model0",
               "pixelsHigh": 512,
@@ -666,15 +666,15 @@
         },
         {
           "alphaPremultiplicationMode": "should_premultiply",
-          "assetDataHash": "85c5583ec171fc96acdf49722b974fa6",
+          "assetDataHash": "495519073d7d1ff4088f2717dfa3a84c",
           "assetLocator": "textures/bunny_icon.png",
           "children": [
             {
-              "assetDataHash": "85c5583ec171fc96acdf49722b974fa6",
-              "colorCount": 4626,
+              "assetDataHash": "495519073d7d1ff4088f2717dfa3a84c",
+              "colorCount": 10826,
               "detectedAlphaChannel": "no_alpha",
               "detectedOriginalFormat": "png",
-              "entropyOfDistribution": 3.9885087660849865,
+              "entropyOfDistribution": 9.307796362307167,
               "modelName": "data_texture_metadata_model",
               "name": "data_texture_metadata_model0",
               "pixelsHigh": 512,
@@ -887,18 +887,18 @@
         },
         {
           "alphaPremultiplicationMode": "should_premultiply",
-          "assetDataHash": "31051a1efc06572284eee058de92a9c8",
+          "assetDataHash": "a83135f194cddebc9d90165f2e319fa1",
           "assetLocator": "textures/frame_rabbids.png",
           "children": [
             {
-              "assetDataHash": "31051a1efc06572284eee058de92a9c8",
-              "colorCount": 33066,
+              "assetDataHash": "a83135f194cddebc9d90165f2e319fa1",
+              "colorCount": 19997,
               "detectedAlphaChannel": "eight_bit_full_range",
               "detectedOriginalFormat": "png",
-              "entropyOfDistribution": 5.804178872894493,
+              "entropyOfDistribution": 6.280301455625783,
               "modelName": "data_texture_metadata_model",
               "name": "data_texture_metadata_model0",
-              "pixelsHigh": 576,
+              "pixelsHigh": 516,
               "pixelsWide": 1024
             }
           ],
@@ -909,7 +909,7 @@
           "excludeFromPackage": false,
           "filter": "bilinear",
           "hasOfflineMipmaps": false,
-          "height": 576,
+          "height": 516,
           "identifier": "texture:362692-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
           "importIssues": {},
           "isExternalAsset": true,
@@ -923,18 +923,18 @@
         },
         {
           "alphaPremultiplicationMode": "should_premultiply",
-          "assetDataHash": "6dbd181f85f78b33cb771b6fdca22fbb",
+          "assetDataHash": "68af4590e5412f25620b33351152b07e",
           "assetLocator": "textures/frame_cloud.png",
           "children": [
             {
-              "assetDataHash": "6dbd181f85f78b33cb771b6fdca22fbb",
-              "colorCount": 7650,
+              "assetDataHash": "68af4590e5412f25620b33351152b07e",
+              "colorCount": 4484,
               "detectedAlphaChannel": "eight_bit_full_range",
               "detectedOriginalFormat": "png",
-              "entropyOfDistribution": 2.7577942960033006,
+              "entropyOfDistribution": 4.645618906544317,
               "modelName": "data_texture_metadata_model",
               "name": "data_texture_metadata_model0",
-              "pixelsHigh": 576,
+              "pixelsHigh": 226,
               "pixelsWide": 1024
             }
           ],
@@ -945,7 +945,7 @@
           "excludeFromPackage": false,
           "filter": "bilinear",
           "hasOfflineMipmaps": false,
-          "height": 576,
+          "height": 226,
           "identifier": "texture:125730-2bdebd64-0477-460c-919a-9c77bb87ff59",
           "importIssues": {},
           "isExternalAsset": true,
@@ -2144,7 +2144,7 @@
         {
           "alphaTestEnabled": false,
           "alphaTestThreshold": 0,
-          "blendMode": "alpha",
+          "blendMode": "add",
           "colorEncoding": "linear",
           "cullMode": "back",
           "diffuseFactor": "0xff000000",
@@ -2156,7 +2156,7 @@
             "scaleU": 1,
             "scaleV": 1
           },
-          "doubleSided": false,
+          "doubleSided": true,
           "emissiveEnabled": false,
           "emissiveFactor": "0xff000000",
           "emissiveTextureTransform": {
@@ -2166,7 +2166,7 @@
             "scaleU": 1,
             "scaleV": 1
           },
-          "identifier": "defaultMaterial:105425-a161121b-888c-4214-a77f-d4156e704aa4",
+          "identifier": "defaultMaterial:107584-c9b56506-b1a1-49e0-930d-7a9acfce3be3",
           "importIssues": {},
           "invertMultiply": false,
           "isDiffuseTextureIdentifierEnabled": true,
@@ -3016,7 +3016,7 @@
             "scaleU": 1,
             "scaleV": 1
           },
-          "identifier": "defaultMaterial:348522-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
+          "identifier": "defaultMaterial:256192-2bdebd64-0477-460c-919a-9c77bb87ff59",
           "importIssues": {},
           "invertMultiply": false,
           "isDiffuseTextureIdentifierEnabled": true,
@@ -3025,7 +3025,7 @@
           "isNormalTextureIdentifierEnabled": false,
           "isReflectiveTextureIdentifierEnabled": false,
           "isSpecularTextureIdentifierEnabled": false,
-          "lightingEnabled": false,
+          "lightingEnabled": true,
           "modelName": "defaultMaterial",
           "multiplyMode": "alpha_only",
           "multiplyTextureTransform": {
@@ -3294,6 +3294,234 @@
           "writesToColorBufferBlue": true,
           "writesToColorBufferGreen": true,
           "writesToColorBufferRed": true
+        },
+        {
+          "alphaTestEnabled": false,
+          "alphaTestThreshold": 0,
+          "blendMode": "replace",
+          "colorEncoding": "linear",
+          "cullMode": "back",
+          "diffuseFactor": "0xffffffff",
+          "diffuseTextureName": "dependent_texture_model:238569-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
+          "diffuseTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "doubleSided": true,
+          "emissiveEnabled": false,
+          "emissiveFactor": "0xff000000",
+          "emissiveTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "identifier": "defaultMaterial:224226-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "importIssues": {},
+          "invertMultiply": false,
+          "isDiffuseTextureIdentifierEnabled": true,
+          "isEmissiveTextureIdentifierEnabled": false,
+          "isMultiplyTextureIdentifierEnabled": false,
+          "isNormalTextureIdentifierEnabled": false,
+          "isReflectiveTextureIdentifierEnabled": false,
+          "isSpecularTextureIdentifierEnabled": false,
+          "lightingEnabled": false,
+          "modelName": "defaultMaterial",
+          "multiplyMode": "alpha_only",
+          "multiplyTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "name": "Material.4",
+          "normalTextureScale": 1,
+          "normalTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "readDepth": true,
+          "reflectiveTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "shininessFactor": 1,
+          "specularTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "transparency": 1,
+          "writeDepth": true,
+          "writesToColorBufferAlpha": true,
+          "writesToColorBufferBlue": true,
+          "writesToColorBufferGreen": true,
+          "writesToColorBufferRed": true
+        },
+        {
+          "alphaTestEnabled": false,
+          "alphaTestThreshold": 0,
+          "blendMode": "replace",
+          "colorEncoding": "linear",
+          "cullMode": "back",
+          "diffuseFactor": "0xffffffff",
+          "diffuseTextureName": "dependent_texture_model:238569-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
+          "diffuseTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "doubleSided": true,
+          "emissiveEnabled": false,
+          "emissiveFactor": "0xff000000",
+          "emissiveTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "identifier": "defaultMaterial:235642-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "importIssues": {},
+          "invertMultiply": false,
+          "isDiffuseTextureIdentifierEnabled": true,
+          "isEmissiveTextureIdentifierEnabled": false,
+          "isMultiplyTextureIdentifierEnabled": false,
+          "isNormalTextureIdentifierEnabled": false,
+          "isReflectiveTextureIdentifierEnabled": false,
+          "isSpecularTextureIdentifierEnabled": false,
+          "lightingEnabled": false,
+          "modelName": "defaultMaterial",
+          "multiplyMode": "alpha_only",
+          "multiplyTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "name": "Material.5",
+          "normalTextureScale": 1,
+          "normalTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "readDepth": true,
+          "reflectiveTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "shininessFactor": 1,
+          "specularTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "transparency": 1,
+          "writeDepth": true,
+          "writesToColorBufferAlpha": true,
+          "writesToColorBufferBlue": true,
+          "writesToColorBufferGreen": true,
+          "writesToColorBufferRed": true
+        },
+        {
+          "alphaTestEnabled": false,
+          "alphaTestThreshold": 0,
+          "blendMode": "replace",
+          "colorEncoding": "linear",
+          "cullMode": "back",
+          "diffuseFactor": "0xffffffff",
+          "diffuseTextureName": "dependent_texture_model:238569-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
+          "diffuseTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "doubleSided": true,
+          "emissiveEnabled": false,
+          "emissiveFactor": "0xff000000",
+          "emissiveTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "identifier": "defaultMaterial:242413-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "importIssues": {},
+          "invertMultiply": false,
+          "isDiffuseTextureIdentifierEnabled": true,
+          "isEmissiveTextureIdentifierEnabled": false,
+          "isMultiplyTextureIdentifierEnabled": false,
+          "isNormalTextureIdentifierEnabled": false,
+          "isReflectiveTextureIdentifierEnabled": false,
+          "isSpecularTextureIdentifierEnabled": false,
+          "lightingEnabled": false,
+          "modelName": "defaultMaterial",
+          "multiplyMode": "alpha_only",
+          "multiplyTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "name": "Material.6",
+          "normalTextureScale": 1,
+          "normalTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "readDepth": true,
+          "reflectiveTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "shininessFactor": 1,
+          "specularTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
+          "transparency": 1,
+          "writeDepth": true,
+          "writesToColorBufferAlpha": true,
+          "writesToColorBufferBlue": true,
+          "writesToColorBufferGreen": true,
+          "writesToColorBufferRed": true
         }
       ],
       "identifier": "materials:9-544c31eb-70cb-4054-a7e5-abd0bc04e7fe",
@@ -3310,36 +3538,6 @@
           "modelName": "gltf",
           "name": "gltf0",
           "sourceIdentifier": "master3_d_object_model:8657-e16b6c3c-e8da-45b6-a2f6-5996056321ea"
-        },
-        {
-          "assetLocator": "107726-1c8c40df-c307-4ea4-a112-d04f7f34da3e.glb",
-          "excludeDuringExport": false,
-          "excludeFromPackage": false,
-          "identifier": "gltf:107725-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
-          "isExternalAsset": false,
-          "modelName": "gltf",
-          "name": "L-Ear-Local",
-          "sourceIdentifier": "master3_d_object_model:107791-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
-        },
-        {
-          "assetLocator": "107738-1c8c40df-c307-4ea4-a112-d04f7f34da3e.glb",
-          "excludeDuringExport": false,
-          "excludeFromPackage": false,
-          "identifier": "gltf:107737-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
-          "isExternalAsset": false,
-          "modelName": "gltf",
-          "name": "L-Ear2-Local",
-          "sourceIdentifier": "master3_d_object_model:107791-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
-        },
-        {
-          "assetLocator": "107750-1c8c40df-c307-4ea4-a112-d04f7f34da3e.glb",
-          "excludeDuringExport": false,
-          "excludeFromPackage": false,
-          "identifier": "gltf:107749-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
-          "isExternalAsset": false,
-          "modelName": "gltf",
-          "name": "L-Ear3-Local",
-          "sourceIdentifier": "master3_d_object_model:107791-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
         },
         {
           "assetLocator": "411506-874d6103-752e-4dc2-8966-7172ddc4d2fb.glb",
@@ -4016,7 +4214,7 @@
                       "color": "0xffffffff",
                       "hidden": false,
                       "identifier": "ambient_light_source_model:47-544c31eb-70cb-4054-a7e5-abd0bc04e7fe",
-                      "intensity": 0.4000000059604645,
+                      "intensity": 1,
                       "layerIdentifier": "layer0",
                       "modelName": "ambient_light_source_model",
                       "name": "ambientLight0",
@@ -4044,9 +4242,9 @@
                       "cameraVisibility": "back|front",
                       "castShadow": false,
                       "color": "0xffffffff",
-                      "hidden": false,
+                      "hidden": true,
                       "identifier": "directional_light_source_model:48-544c31eb-70cb-4054-a7e5-abd0bc04e7fe",
-                      "intensity": 0.5,
+                      "intensity": 1,
                       "layerIdentifier": "layer0",
                       "modelName": "directional_light_source_model",
                       "name": "directionalLight0",
@@ -4193,7 +4391,7 @@
                                     {
                                       "identifier": "surface:315177-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                       "isMaterialIdentifierEnabled": true,
-                                      "materialIdentifier": "defaultMaterial:348522-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
+                                      "materialIdentifier": "defaultMaterial:256192-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "modelName": "surface",
                                       "name": "surface0",
                                       "sourceIdentifier": "surface:314769-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
@@ -4313,7 +4511,7 @@
                                     {
                                       "identifier": "surface:246968-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                       "isMaterialIdentifierEnabled": true,
-                                      "materialIdentifier": "defaultMaterial:348522-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
+                                      "materialIdentifier": "defaultMaterial:256192-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "modelName": "surface",
                                       "name": "surface0",
                                       "sourceIdentifier": "surface:230039-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
@@ -4343,7 +4541,7 @@
                                         {
                                           "identifier": "surface:246980-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                           "isMaterialIdentifierEnabled": true,
-                                          "materialIdentifier": "defaultMaterial:348522-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
+                                          "materialIdentifier": "defaultMaterial:256192-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "modelName": "surface",
                                           "name": "surface0",
                                           "sourceIdentifier": "surface:230051-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
@@ -4373,7 +4571,7 @@
                                             {
                                               "identifier": "surface:246992-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                               "isMaterialIdentifierEnabled": true,
-                                              "materialIdentifier": "defaultMaterial:348522-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
+                                              "materialIdentifier": "defaultMaterial:256192-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "modelName": "surface",
                                               "name": "surface0",
                                               "sourceIdentifier": "surface:230063-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
@@ -4408,12 +4606,12 @@
                                         "rx": 0,
                                         "ry": 0,
                                         "rz": 0,
-                                        "sx": 1.000000238418579,
-                                        "sy": 1,
-                                        "sz": 1,
-                                        "x": 0.07028543204069138,
-                                        "y": 0.7021414637565613,
-                                        "z": 0.17705152928829193
+                                        "sx": 0.9999998807907104,
+                                        "sy": 0.9999996423721313,
+                                        "sz": 0.9999997615814209,
+                                        "x": 0.07124007493257523,
+                                        "y": 0.7052513957023621,
+                                        "z": 0.15907999873161316
                                       },
                                       "useEmbeddedBlendshapes": false
                                     }
@@ -4439,8 +4637,8 @@
                                     "sx": 1,
                                     "sy": 1,
                                     "sz": 1,
-                                    "x": 0.25583794713020325,
-                                    "y": 0.5728216767311096,
+                                    "x": 0.255840003490448,
+                                    "y": 0.5728200078010559,
                                     "z": -0.030996324494481087
                                   },
                                   "useEmbeddedBlendshapes": false
@@ -4464,12 +4662,12 @@
                                 "rx": 0,
                                 "ry": 0,
                                 "rz": 0,
-                                "sx": 1,
-                                "sy": 1,
-                                "sz": 1,
-                                "x": -0.4985800087451935,
-                                "y": 1.0735199451446533,
-                                "z": -0.26159000396728516
+                                "sx": 0.9999997615814209,
+                                "sy": 1.0000005960464478,
+                                "sz": 1.0000004768371582,
+                                "x": -0.728950023651123,
+                                "y": 1.0671000480651855,
+                                "z": -0.2423900067806244
                               },
                               "useEmbeddedBlendshapes": false
                             },
@@ -4487,7 +4685,7 @@
                                     {
                                       "identifier": "surface:256741-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                       "isMaterialIdentifierEnabled": true,
-                                      "materialIdentifier": "defaultMaterial:348522-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
+                                      "materialIdentifier": "defaultMaterial:256192-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "modelName": "surface",
                                       "name": "surface0",
                                       "surfaceGroupIdentifier": "230040-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
@@ -4514,7 +4712,7 @@
                                         {
                                           "identifier": "surface:256753-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                           "isMaterialIdentifierEnabled": true,
-                                          "materialIdentifier": "defaultMaterial:348522-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
+                                          "materialIdentifier": "defaultMaterial:256192-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "modelName": "surface",
                                           "name": "surface0",
                                           "surfaceGroupIdentifier": "230052-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
@@ -4541,7 +4739,7 @@
                                             {
                                               "identifier": "surface:256765-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                               "isMaterialIdentifierEnabled": true,
-                                              "materialIdentifier": "defaultMaterial:348522-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
+                                              "materialIdentifier": "defaultMaterial:256192-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "modelName": "surface",
                                               "name": "surface0",
                                               "surfaceGroupIdentifier": "230064-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
@@ -4572,12 +4770,12 @@
                                         "rx": 0,
                                         "ry": 0,
                                         "rz": 0,
-                                        "sx": 0.9999997615814209,
-                                        "sy": 1.0000009536743164,
-                                        "sz": 1,
-                                        "x": 0.14377065002918243,
-                                        "y": 0.6322013139724731,
-                                        "z": 0.1873144954442978
+                                        "sx": 0.9999991655349731,
+                                        "sy": 1.0000001192092896,
+                                        "sz": 0.9999991655349731,
+                                        "x": 0.189970001578331,
+                                        "y": 0.6359800100326538,
+                                        "z": 0.2169400006532669
                                       },
                                       "useEmbeddedBlendshapes": false
                                     }
@@ -4599,12 +4797,12 @@
                                     "rx": 0,
                                     "ry": 0,
                                     "rz": 0,
-                                    "sx": 1,
-                                    "sy": 1,
-                                    "sz": 1,
-                                    "x": 0.28421834111213684,
-                                    "y": 0.41379281878471375,
-                                    "z": 0.020685994997620583
+                                    "sx": 0.9999998807907104,
+                                    "sy": 1.000000238418579,
+                                    "sz": 1.000000238418579,
+                                    "x": 0.2702600061893463,
+                                    "y": 0.4214699864387512,
+                                    "z": -0.06983000040054321
                                   },
                                   "useEmbeddedBlendshapes": false
                                 }
@@ -4626,12 +4824,12 @@
                                 "rx": 0,
                                 "ry": 0,
                                 "rz": 0,
-                                "sx": 0.9999999403953552,
-                                "sy": 0.9999997019767761,
-                                "sz": 0.9999996423721313,
-                                "x": 0.796180009841919,
-                                "y": 0.9664461612701416,
-                                "z": -0.23270753026008606
+                                "sx": 1,
+                                "sy": 0.9999991655349731,
+                                "sz": 0.9999997019767761,
+                                "x": 0.6200799942016602,
+                                "y": 0.9900699853897095,
+                                "z": -0.22157999873161316
                               },
                               "useEmbeddedBlendshapes": false
                             }
@@ -4648,13 +4846,13 @@
                           "sourceIdentifier": "master3_d_object_model:230066-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                           "tags": [],
                           "transform": {
-                            "rx": 0.11027078330516815,
-                            "ry": -0.1799200475215912,
-                            "rz": 0.09232412278652191,
-                            "sx": 0.07999999821186066,
-                            "sy": 0.08000001311302185,
-                            "sz": 0.08000003546476364,
-                            "x": 0,
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 0.07999997586011887,
+                            "sy": 0.07999999821186066,
+                            "sz": 0.08000002801418304,
+                            "x": 0.009999999776482582,
                             "y": 0.07213066518306732,
                             "z": -0.07385873794555664
                           },
@@ -4888,7 +5086,7 @@
                                     {
                                       "identifier": "surface:413565-874d6103-752e-4dc2-8966-7172ddc4d2fb",
                                       "isMaterialIdentifierEnabled": true,
-                                      "materialIdentifier": "defaultMaterial:161878-a161121b-888c-4214-a77f-d4156e704aa4",
+                                      "materialIdentifier": "defaultMaterial:107584-c9b56506-b1a1-49e0-930d-7a9acfce3be3",
                                       "modelName": "surface",
                                       "name": "surface0",
                                       "sourceIdentifier": "surface:413434-874d6103-752e-4dc2-8966-7172ddc4d2fb",
@@ -4897,7 +5095,7 @@
                                     {
                                       "identifier": "surface:413568-874d6103-752e-4dc2-8966-7172ddc4d2fb",
                                       "isMaterialIdentifierEnabled": true,
-                                      "materialIdentifier": "defaultMaterial:105212-3630419f-7656-49c2-a6f5-47f9368d7841",
+                                      "materialIdentifier": "defaultMaterial:105428-a161121b-888c-4214-a77f-d4156e704aa4",
                                       "modelName": "surface",
                                       "name": "surface1",
                                       "sourceIdentifier": "surface:413437-874d6103-752e-4dc2-8966-7172ddc4d2fb",
@@ -4973,10 +5171,10 @@
                           "tags": [],
                           "transform": {
                             "rx": -0.017148643732070923,
-                            "ry": -0.01775248534977436,
+                            "ry": 0.017453292519943295,
                             "rz": -0.017148735001683235,
                             "sx": 0.1415783166885376,
-                            "sy": 0.1343122273683548,
+                            "sy": 0.1943099945783615,
                             "sz": 0.1343121975660324,
                             "x": -0.0015751421451568604,
                             "y": 0.01158113218843937,
@@ -5063,19 +5261,23 @@
                                 {
                                   "children": [
                                     {
-                                      "identifier": "surface:105633-a161121b-888c-4214-a77f-d4156e704aa4",
+                                      "identifier": "surface:224452-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "isMaterialIdentifierEnabled": true,
+                                      "materialIdentifier": "defaultMaterial:224226-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "modelName": "surface",
                                       "name": "surface0",
-                                      "surfaceGroupIdentifier": "107729-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                      "sourceIdentifier": "surface:224329-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "surfaceGroupIdentifier": "230040-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                     }
                                   ],
-                                  "identifier": "surfaces:105630-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "modelName": "surfaces"
+                                  "identifier": "surfaces:224449-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "modelName": "surfaces",
+                                  "sourceIdentifier": "surfaces:224326-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                 },
                                 {
-                                  "identifier": "blend_shapes_model:105636-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "modelName": "blend_shapes_model"
+                                  "identifier": "blend_shapes_model:224455-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "modelName": "blend_shapes_model",
+                                  "sourceIdentifier": "blend_shapes_model:224332-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                 },
                                 {
                                   "animationMask": {
@@ -5089,19 +5291,23 @@
                                     {
                                       "children": [
                                         {
-                                          "identifier": "surface:105645-a161121b-888c-4214-a77f-d4156e704aa4",
+                                          "identifier": "surface:224464-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "isMaterialIdentifierEnabled": true,
+                                          "materialIdentifier": "defaultMaterial:224226-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "modelName": "surface",
                                           "name": "surface0",
-                                          "surfaceGroupIdentifier": "107741-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                          "sourceIdentifier": "surface:224341-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "surfaceGroupIdentifier": "230052-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                         }
                                       ],
-                                      "identifier": "surfaces:105642-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "modelName": "surfaces"
+                                      "identifier": "surfaces:224461-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "modelName": "surfaces",
+                                      "sourceIdentifier": "surfaces:224338-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                     },
                                     {
-                                      "identifier": "blend_shapes_model:105648-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "modelName": "blend_shapes_model"
+                                      "identifier": "blend_shapes_model:224467-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "modelName": "blend_shapes_model",
+                                      "sourceIdentifier": "blend_shapes_model:224344-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                     },
                                     {
                                       "animationMask": {
@@ -5115,60 +5321,66 @@
                                         {
                                           "children": [
                                             {
-                                              "identifier": "surface:105657-a161121b-888c-4214-a77f-d4156e704aa4",
+                                              "identifier": "surface:224476-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "isMaterialIdentifierEnabled": true,
+                                              "materialIdentifier": "defaultMaterial:224226-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "modelName": "surface",
                                               "name": "surface0",
-                                              "surfaceGroupIdentifier": "107753-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                              "sourceIdentifier": "surface:224353-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                              "surfaceGroupIdentifier": "230064-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                             }
                                           ],
-                                          "identifier": "surfaces:105654-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "modelName": "surfaces"
+                                          "identifier": "surfaces:224473-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "modelName": "surfaces",
+                                          "sourceIdentifier": "surfaces:224350-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                         },
                                         {
-                                          "identifier": "blend_shapes_model:105660-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "modelName": "blend_shapes_model"
+                                          "identifier": "blend_shapes_model:224479-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "modelName": "blend_shapes_model",
+                                          "sourceIdentifier": "blend_shapes_model:224356-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                         }
                                       ],
                                       "hidden": false,
-                                      "identifier": "mesh:105651-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "layerIdentifier": "layer0",
+                                      "identifier": "mesh:224470-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "layerIdentifier": "layer1",
                                       "modelName": "mesh",
                                       "name": "L-Ear3-Local",
                                       "nodeName": "L-Ear3-Local",
-                                      "numberOfFaces": 52,
+                                      "numberOfFaces": 76,
                                       "outputVisibility": "preview|capture",
                                       "physicsEnabled": false,
-                                      "prefabIdentifier": "gltf:107749-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                                      "prefabIdentifier": "gltf:230060-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                       "receiveShadow": false,
                                       "renderPass": "main_scene",
+                                      "sourceIdentifier": "mesh:224347-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "tags": [],
                                       "transform": {
                                         "rx": 0,
                                         "ry": 0,
                                         "rz": 0,
-                                        "sx": 1,
-                                        "sy": 1,
-                                        "sz": 1,
-                                        "x": 0.0896328017115593,
-                                        "y": 0.44362396001815796,
-                                        "z": 0.08277309685945511
+                                        "sx": 0.9999998807907104,
+                                        "sy": 0.9999996423721313,
+                                        "sz": 0.9999997615814209,
+                                        "x": 0.07124007493257523,
+                                        "y": 0.7052513957023621,
+                                        "z": 0.15907999873161316
                                       },
                                       "useEmbeddedBlendshapes": false
                                     }
                                   ],
                                   "hidden": false,
-                                  "identifier": "mesh:105639-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "layerIdentifier": "layer0",
+                                  "identifier": "mesh:224458-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "layerIdentifier": "layer1",
                                   "modelName": "mesh",
                                   "name": "L-Ear2-Local",
                                   "nodeName": "L-Ear2-Local",
-                                  "numberOfFaces": 34,
+                                  "numberOfFaces": 50,
                                   "outputVisibility": "preview|capture",
                                   "physicsEnabled": false,
-                                  "prefabIdentifier": "gltf:107737-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                                  "prefabIdentifier": "gltf:230048-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                   "receiveShadow": false,
                                   "renderPass": "main_scene",
+                                  "sourceIdentifier": "mesh:224335-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                   "tags": [],
                                   "transform": {
                                     "rx": 0,
@@ -5177,36 +5389,37 @@
                                     "sx": 1,
                                     "sy": 1,
                                     "sz": 1,
-                                    "x": 0.07179271429777145,
-                                    "y": 0.47899165749549866,
-                                    "z": -0.07916499674320221
+                                    "x": 0.255840003490448,
+                                    "y": 0.5728200078010559,
+                                    "z": -0.030996324494481087
                                   },
                                   "useEmbeddedBlendshapes": false
                                 }
                               ],
                               "hidden": false,
-                              "identifier": "mesh:105627-a161121b-888c-4214-a77f-d4156e704aa4",
-                              "layerIdentifier": "layer0",
+                              "identifier": "mesh:224446-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                              "layerIdentifier": "layer1",
                               "modelName": "mesh",
                               "name": "L-Ear-Local",
                               "nodeName": "L-Ear-Local",
-                              "numberOfFaces": 52,
+                              "numberOfFaces": 74,
                               "outputVisibility": "preview|capture",
                               "physicsEnabled": false,
-                              "prefabIdentifier": "gltf:107725-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                              "prefabIdentifier": "gltf:230036-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                               "receiveShadow": false,
                               "renderPass": "main_scene",
+                              "sourceIdentifier": "mesh:224323-2bdebd64-0477-460c-919a-9c77bb87ff59",
                               "tags": [],
                               "transform": {
-                                "rx": -3.725290298461914E-8,
-                                "ry": -2.980232594040899E-8,
-                                "rz": -1.862645371275562E-9,
-                                "sx": 0.9999998807907104,
-                                "sy": 0.9999997615814209,
-                                "sz": 0.9999998211860657,
-                                "x": -0.4985795021057129,
-                                "y": 1.0735194683074951,
-                                "z": -0.2615928649902344
+                                "rx": 0,
+                                "ry": 0,
+                                "rz": 0,
+                                "sx": 0.9999997615814209,
+                                "sy": 1.0000005960464478,
+                                "sz": 1.0000004768371582,
+                                "x": -0.728950023651123,
+                                "y": 1.0671000480651855,
+                                "z": -0.2423900067806244
                               },
                               "useEmbeddedBlendshapes": false
                             },
@@ -5222,22 +5435,20 @@
                                 {
                                   "children": [
                                     {
-                                      "identifier": "surface:105669-a161121b-888c-4214-a77f-d4156e704aa4",
+                                      "identifier": "surface:224488-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "isMaterialIdentifierEnabled": true,
+                                      "materialIdentifier": "defaultMaterial:224226-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "modelName": "surface",
                                       "name": "surface0",
-                                      "sourceIdentifier": "surface:105507-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "surfaceGroupIdentifier": "107729-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                      "surfaceGroupIdentifier": "230040-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                     }
                                   ],
-                                  "identifier": "surfaces:105666-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "modelName": "surfaces",
-                                  "sourceIdentifier": "surfaces:105504-a161121b-888c-4214-a77f-d4156e704aa4"
+                                  "identifier": "surfaces:224485-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "modelName": "surfaces"
                                 },
                                 {
-                                  "identifier": "blend_shapes_model:105672-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "modelName": "blend_shapes_model",
-                                  "sourceIdentifier": "blend_shapes_model:105510-a161121b-888c-4214-a77f-d4156e704aa4"
+                                  "identifier": "blend_shapes_model:224491-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "modelName": "blend_shapes_model"
                                 },
                                 {
                                   "animationMask": {
@@ -5251,22 +5462,20 @@
                                     {
                                       "children": [
                                         {
-                                          "identifier": "surface:105681-a161121b-888c-4214-a77f-d4156e704aa4",
+                                          "identifier": "surface:224500-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "isMaterialIdentifierEnabled": true,
+                                          "materialIdentifier": "defaultMaterial:224226-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "modelName": "surface",
                                           "name": "surface0",
-                                          "sourceIdentifier": "surface:105519-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "surfaceGroupIdentifier": "107741-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                          "surfaceGroupIdentifier": "230052-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                         }
                                       ],
-                                      "identifier": "surfaces:105678-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "modelName": "surfaces",
-                                      "sourceIdentifier": "surfaces:105516-a161121b-888c-4214-a77f-d4156e704aa4"
+                                      "identifier": "surfaces:224497-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "modelName": "surfaces"
                                     },
                                     {
-                                      "identifier": "blend_shapes_model:105684-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "modelName": "blend_shapes_model",
-                                      "sourceIdentifier": "blend_shapes_model:105522-a161121b-888c-4214-a77f-d4156e704aa4"
+                                      "identifier": "blend_shapes_model:224503-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "modelName": "blend_shapes_model"
                                     },
                                     {
                                       "animationMask": {
@@ -5280,131 +5489,126 @@
                                         {
                                           "children": [
                                             {
-                                              "identifier": "surface:105693-a161121b-888c-4214-a77f-d4156e704aa4",
+                                              "identifier": "surface:224512-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "isMaterialIdentifierEnabled": true,
+                                              "materialIdentifier": "defaultMaterial:224226-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "modelName": "surface",
                                               "name": "surface0",
-                                              "sourceIdentifier": "surface:105531-a161121b-888c-4214-a77f-d4156e704aa4",
-                                              "surfaceGroupIdentifier": "107753-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                              "surfaceGroupIdentifier": "230064-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                             }
                                           ],
-                                          "identifier": "surfaces:105690-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "modelName": "surfaces",
-                                          "sourceIdentifier": "surfaces:105528-a161121b-888c-4214-a77f-d4156e704aa4"
+                                          "identifier": "surfaces:224509-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "modelName": "surfaces"
                                         },
                                         {
-                                          "identifier": "blend_shapes_model:105696-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "modelName": "blend_shapes_model",
-                                          "sourceIdentifier": "blend_shapes_model:105534-a161121b-888c-4214-a77f-d4156e704aa4"
+                                          "identifier": "blend_shapes_model:224515-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "modelName": "blend_shapes_model"
                                         }
                                       ],
                                       "hidden": false,
-                                      "identifier": "mesh:105687-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "layerIdentifier": "layer0",
+                                      "identifier": "mesh:224506-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "layerIdentifier": "layer1",
                                       "modelName": "mesh",
                                       "name": "L-Ear3-Local",
                                       "nodeName": "L-Ear3-Local",
-                                      "numberOfFaces": 52,
+                                      "numberOfFaces": 76,
                                       "outputVisibility": "preview|capture",
                                       "physicsEnabled": false,
-                                      "prefabIdentifier": "gltf:107749-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                                      "prefabIdentifier": "gltf:230060-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                       "receiveShadow": false,
                                       "renderPass": "main_scene",
-                                      "sourceIdentifier": "mesh:105525-a161121b-888c-4214-a77f-d4156e704aa4",
                                       "tags": [],
                                       "transform": {
                                         "rx": 0,
                                         "ry": 0,
                                         "rz": 0,
-                                        "sx": 1,
-                                        "sy": 1,
-                                        "sz": 1,
-                                        "x": 0.0896328017115593,
-                                        "y": 0.44362396001815796,
-                                        "z": 0.08277309685945511
+                                        "sx": 0.9999991655349731,
+                                        "sy": 1.0000001192092896,
+                                        "sz": 0.9999991655349731,
+                                        "x": 0.189970001578331,
+                                        "y": 0.6359800100326538,
+                                        "z": 0.2169400006532669
                                       },
                                       "useEmbeddedBlendshapes": false
                                     }
                                   ],
                                   "hidden": false,
-                                  "identifier": "mesh:105675-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "layerIdentifier": "layer0",
+                                  "identifier": "mesh:224494-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "layerIdentifier": "layer1",
                                   "modelName": "mesh",
                                   "name": "L-Ear2-Local",
                                   "nodeName": "L-Ear2-Local",
-                                  "numberOfFaces": 34,
+                                  "numberOfFaces": 50,
                                   "outputVisibility": "preview|capture",
                                   "physicsEnabled": false,
-                                  "prefabIdentifier": "gltf:107737-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                                  "prefabIdentifier": "gltf:230048-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                   "receiveShadow": false,
                                   "renderPass": "main_scene",
-                                  "sourceIdentifier": "mesh:105513-a161121b-888c-4214-a77f-d4156e704aa4",
                                   "tags": [],
                                   "transform": {
                                     "rx": 0,
                                     "ry": 0,
                                     "rz": 0,
-                                    "sx": 1,
-                                    "sy": 1,
-                                    "sz": 1,
-                                    "x": 0.07179271429777145,
-                                    "y": 0.47899165749549866,
-                                    "z": -0.07916499674320221
+                                    "sx": 0.9999998807907104,
+                                    "sy": 1.000000238418579,
+                                    "sz": 1.000000238418579,
+                                    "x": 0.2702600061893463,
+                                    "y": 0.4214699864387512,
+                                    "z": -0.06983000040054321
                                   },
                                   "useEmbeddedBlendshapes": false
                                 }
                               ],
                               "hidden": false,
-                              "identifier": "mesh:105663-a161121b-888c-4214-a77f-d4156e704aa4",
-                              "layerIdentifier": "layer0",
+                              "identifier": "mesh:224482-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                              "layerIdentifier": "layer1",
                               "modelName": "mesh",
-                              "name": "L-Ear-Local0",
+                              "name": "R-Ear-Local",
                               "nodeName": "L-Ear-Local",
-                              "numberOfFaces": 52,
+                              "numberOfFaces": 74,
                               "outputVisibility": "preview|capture",
                               "physicsEnabled": false,
-                              "prefabIdentifier": "gltf:107725-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                              "prefabIdentifier": "gltf:230036-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                               "receiveShadow": false,
                               "renderPass": "main_scene",
-                              "sourceIdentifier": "mesh:105501-a161121b-888c-4214-a77f-d4156e704aa4",
                               "tags": [],
                               "transform": {
                                 "rx": 0,
                                 "ry": 0,
                                 "rz": 0,
-                                "sx": 0.9999998807907104,
-                                "sy": 0.9999998807907104,
-                                "sz": 0.9999999403953552,
-                                "x": 0.11798787862062454,
-                                "y": 1.1403212547302246,
-                                "z": -0.13173867762088776
+                                "sx": 1,
+                                "sy": 0.9999991655349731,
+                                "sz": 0.9999997019767761,
+                                "x": 0.6200799942016602,
+                                "y": 0.9900699853897095,
+                                "z": -0.22157999873161316
                               },
                               "useEmbeddedBlendshapes": false
                             }
                           ],
-                          "depth": 0.7554130554199219,
-                          "height": 1.7671936750411987,
+                          "depth": 9.801264762878418,
+                          "height": 15.026580810546875,
                           "hidden": true,
-                          "identifier": "master3_d_object_model:105624-a161121b-888c-4214-a77f-d4156e704aa4",
-                          "layerIdentifier": "layer0",
+                          "identifier": "master3_d_object_model:224443-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                          "layerIdentifier": "layer1",
                           "modelName": "3_d_object_instance_model",
                           "name": "BunnyEar_nojoint",
                           "outputVisibility": "preview|capture",
                           "physicsEnabled": false,
-                          "sourceIdentifier": "master3_d_object_model:105459-a161121b-888c-4214-a77f-d4156e704aa4",
+                          "sourceIdentifier": "master3_d_object_model:224320-2bdebd64-0477-460c-919a-9c77bb87ff59",
                           "tags": [],
                           "transform": {
-                            "rx": 0.3995646834373474,
-                            "ry": 0.22062261402606964,
-                            "rz": 0.03779934346675873,
-                            "sx": 0.09870000183582306,
-                            "sy": 0.09870070964097977,
-                            "sz": 0.09870069473981857,
-                            "x": 0.0211400855332613,
-                            "y": 0.023249885067343712,
-                            "z": -0.10692274570465088
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 0.07999997586011887,
+                            "sy": 0.07999999821186066,
+                            "sz": 0.08000002801418304,
+                            "x": 0.009999999776482582,
+                            "y": 0.07213066518306732,
+                            "z": -0.07385873794555664
                           },
-                          "width": 2.2880046367645264
+                          "width": 8.233039855957031
                         },
                         {
                           "animationMask": {
@@ -5634,7 +5838,7 @@
                                     {
                                       "identifier": "surface:105742-a161121b-888c-4214-a77f-d4156e704aa4",
                                       "isMaterialIdentifierEnabled": true,
-                                      "materialIdentifier": "defaultMaterial:105425-a161121b-888c-4214-a77f-d4156e704aa4",
+                                      "materialIdentifier": "defaultMaterial:107584-c9b56506-b1a1-49e0-930d-7a9acfce3be3",
                                       "modelName": "surface",
                                       "name": "surface0",
                                       "sourceIdentifier": "surface:105741-a161121b-888c-4214-a77f-d4156e704aa4",
@@ -5719,10 +5923,10 @@
                           "tags": [],
                           "transform": {
                             "rx": -0.017148643732070923,
-                            "ry": -0.01775248534977436,
+                            "ry": 0.017453292519943295,
                             "rz": -0.017148735001683235,
                             "sx": 0.1415783166885376,
-                            "sy": 0.1343122273683548,
+                            "sy": 0.1943099945783615,
                             "sz": 0.1343121975660324,
                             "x": -0.0015751421451568604,
                             "y": 0.01158113218843937,
@@ -5809,19 +6013,23 @@
                                 {
                                   "children": [
                                     {
-                                      "identifier": "surface:110221-a161121b-888c-4214-a77f-d4156e704aa4",
+                                      "identifier": "surface:236006-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "isMaterialIdentifierEnabled": true,
+                                      "materialIdentifier": "defaultMaterial:235642-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "modelName": "surface",
                                       "name": "surface0",
-                                      "surfaceGroupIdentifier": "107729-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                      "sourceIdentifier": "surface:236005-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "surfaceGroupIdentifier": "230040-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                     }
                                   ],
-                                  "identifier": "surfaces:110218-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "modelName": "surfaces"
+                                  "identifier": "surfaces:236002-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "modelName": "surfaces",
+                                  "sourceIdentifier": "surfaces:236001-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                 },
                                 {
-                                  "identifier": "blend_shapes_model:110224-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "modelName": "blend_shapes_model"
+                                  "identifier": "blend_shapes_model:236010-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "modelName": "blend_shapes_model",
+                                  "sourceIdentifier": "blend_shapes_model:236009-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                 },
                                 {
                                   "animationMask": {
@@ -5835,19 +6043,23 @@
                                     {
                                       "children": [
                                         {
-                                          "identifier": "surface:110233-a161121b-888c-4214-a77f-d4156e704aa4",
+                                          "identifier": "surface:236022-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "isMaterialIdentifierEnabled": true,
+                                          "materialIdentifier": "defaultMaterial:235642-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "modelName": "surface",
                                           "name": "surface0",
-                                          "surfaceGroupIdentifier": "107741-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                          "sourceIdentifier": "surface:236021-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "surfaceGroupIdentifier": "230052-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                         }
                                       ],
-                                      "identifier": "surfaces:110230-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "modelName": "surfaces"
+                                      "identifier": "surfaces:236018-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "modelName": "surfaces",
+                                      "sourceIdentifier": "surfaces:236017-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                     },
                                     {
-                                      "identifier": "blend_shapes_model:110236-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "modelName": "blend_shapes_model"
+                                      "identifier": "blend_shapes_model:236026-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "modelName": "blend_shapes_model",
+                                      "sourceIdentifier": "blend_shapes_model:236025-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                     },
                                     {
                                       "animationMask": {
@@ -5861,60 +6073,66 @@
                                         {
                                           "children": [
                                             {
-                                              "identifier": "surface:110245-a161121b-888c-4214-a77f-d4156e704aa4",
+                                              "identifier": "surface:236038-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "isMaterialIdentifierEnabled": true,
+                                              "materialIdentifier": "defaultMaterial:235642-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "modelName": "surface",
                                               "name": "surface0",
-                                              "surfaceGroupIdentifier": "107753-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                              "sourceIdentifier": "surface:236037-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                              "surfaceGroupIdentifier": "230064-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                             }
                                           ],
-                                          "identifier": "surfaces:110242-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "modelName": "surfaces"
+                                          "identifier": "surfaces:236034-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "modelName": "surfaces",
+                                          "sourceIdentifier": "surfaces:236033-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                         },
                                         {
-                                          "identifier": "blend_shapes_model:110248-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "modelName": "blend_shapes_model"
+                                          "identifier": "blend_shapes_model:236042-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "modelName": "blend_shapes_model",
+                                          "sourceIdentifier": "blend_shapes_model:236041-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                         }
                                       ],
                                       "hidden": false,
-                                      "identifier": "mesh:110239-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "layerIdentifier": "layer0",
+                                      "identifier": "mesh:236030-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "layerIdentifier": "layer1",
                                       "modelName": "mesh",
                                       "name": "L-Ear3-Local",
                                       "nodeName": "L-Ear3-Local",
-                                      "numberOfFaces": 52,
+                                      "numberOfFaces": 76,
                                       "outputVisibility": "preview|capture",
                                       "physicsEnabled": false,
-                                      "prefabIdentifier": "gltf:107749-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                                      "prefabIdentifier": "gltf:230060-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                       "receiveShadow": false,
                                       "renderPass": "main_scene",
+                                      "sourceIdentifier": "mesh:236029-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "tags": [],
                                       "transform": {
                                         "rx": 0,
                                         "ry": 0,
                                         "rz": 0,
-                                        "sx": 1,
-                                        "sy": 1,
-                                        "sz": 1,
-                                        "x": 0.0896328017115593,
-                                        "y": 0.44362396001815796,
-                                        "z": 0.08277309685945511
+                                        "sx": 0.9999998807907104,
+                                        "sy": 0.9999996423721313,
+                                        "sz": 0.9999997615814209,
+                                        "x": 0.07124007493257523,
+                                        "y": 0.7052513957023621,
+                                        "z": 0.15907999873161316
                                       },
                                       "useEmbeddedBlendshapes": false
                                     }
                                   ],
                                   "hidden": false,
-                                  "identifier": "mesh:110227-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "layerIdentifier": "layer0",
+                                  "identifier": "mesh:236014-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "layerIdentifier": "layer1",
                                   "modelName": "mesh",
                                   "name": "L-Ear2-Local",
                                   "nodeName": "L-Ear2-Local",
-                                  "numberOfFaces": 34,
+                                  "numberOfFaces": 50,
                                   "outputVisibility": "preview|capture",
                                   "physicsEnabled": false,
-                                  "prefabIdentifier": "gltf:107737-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                                  "prefabIdentifier": "gltf:230048-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                   "receiveShadow": false,
                                   "renderPass": "main_scene",
+                                  "sourceIdentifier": "mesh:236013-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                   "tags": [],
                                   "transform": {
                                     "rx": 0,
@@ -5923,36 +6141,37 @@
                                     "sx": 1,
                                     "sy": 1,
                                     "sz": 1,
-                                    "x": 0.07179271429777145,
-                                    "y": 0.47899165749549866,
-                                    "z": -0.07916499674320221
+                                    "x": 0.255840003490448,
+                                    "y": 0.5728200078010559,
+                                    "z": -0.030996324494481087
                                   },
                                   "useEmbeddedBlendshapes": false
                                 }
                               ],
                               "hidden": false,
-                              "identifier": "mesh:110215-a161121b-888c-4214-a77f-d4156e704aa4",
-                              "layerIdentifier": "layer0",
+                              "identifier": "mesh:235998-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                              "layerIdentifier": "layer1",
                               "modelName": "mesh",
                               "name": "L-Ear-Local",
                               "nodeName": "L-Ear-Local",
-                              "numberOfFaces": 52,
+                              "numberOfFaces": 74,
                               "outputVisibility": "preview|capture",
                               "physicsEnabled": false,
-                              "prefabIdentifier": "gltf:107725-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                              "prefabIdentifier": "gltf:230036-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                               "receiveShadow": false,
                               "renderPass": "main_scene",
+                              "sourceIdentifier": "mesh:235997-2bdebd64-0477-460c-919a-9c77bb87ff59",
                               "tags": [],
                               "transform": {
-                                "rx": -3.725290298461914E-8,
-                                "ry": -2.980232594040899E-8,
-                                "rz": -1.862645371275562E-9,
-                                "sx": 0.9999998807907104,
-                                "sy": 0.9999997615814209,
-                                "sz": 0.9999998211860657,
-                                "x": -0.4985795021057129,
-                                "y": 1.0735194683074951,
-                                "z": -0.2615928649902344
+                                "rx": 0,
+                                "ry": 0,
+                                "rz": 0,
+                                "sx": 0.9999997615814209,
+                                "sy": 1.0000005960464478,
+                                "sz": 1.0000004768371582,
+                                "x": -0.728950023651123,
+                                "y": 1.0671000480651855,
+                                "z": -0.2423900067806244
                               },
                               "useEmbeddedBlendshapes": false
                             },
@@ -5968,22 +6187,20 @@
                                 {
                                   "children": [
                                     {
-                                      "identifier": "surface:110257-a161121b-888c-4214-a77f-d4156e704aa4",
+                                      "identifier": "surface:236051-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "isMaterialIdentifierEnabled": true,
+                                      "materialIdentifier": "defaultMaterial:235642-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "modelName": "surface",
                                       "name": "surface0",
-                                      "sourceIdentifier": "surface:105507-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "surfaceGroupIdentifier": "107729-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                      "surfaceGroupIdentifier": "230040-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                     }
                                   ],
-                                  "identifier": "surfaces:110254-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "modelName": "surfaces",
-                                  "sourceIdentifier": "surfaces:105504-a161121b-888c-4214-a77f-d4156e704aa4"
+                                  "identifier": "surfaces:236048-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "modelName": "surfaces"
                                 },
                                 {
-                                  "identifier": "blend_shapes_model:110260-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "modelName": "blend_shapes_model",
-                                  "sourceIdentifier": "blend_shapes_model:105510-a161121b-888c-4214-a77f-d4156e704aa4"
+                                  "identifier": "blend_shapes_model:236054-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "modelName": "blend_shapes_model"
                                 },
                                 {
                                   "animationMask": {
@@ -5997,22 +6214,20 @@
                                     {
                                       "children": [
                                         {
-                                          "identifier": "surface:110269-a161121b-888c-4214-a77f-d4156e704aa4",
+                                          "identifier": "surface:236063-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "isMaterialIdentifierEnabled": true,
+                                          "materialIdentifier": "defaultMaterial:235642-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "modelName": "surface",
                                           "name": "surface0",
-                                          "sourceIdentifier": "surface:105519-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "surfaceGroupIdentifier": "107741-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                          "surfaceGroupIdentifier": "230052-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                         }
                                       ],
-                                      "identifier": "surfaces:110266-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "modelName": "surfaces",
-                                      "sourceIdentifier": "surfaces:105516-a161121b-888c-4214-a77f-d4156e704aa4"
+                                      "identifier": "surfaces:236060-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "modelName": "surfaces"
                                     },
                                     {
-                                      "identifier": "blend_shapes_model:110272-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "modelName": "blend_shapes_model",
-                                      "sourceIdentifier": "blend_shapes_model:105522-a161121b-888c-4214-a77f-d4156e704aa4"
+                                      "identifier": "blend_shapes_model:236066-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "modelName": "blend_shapes_model"
                                     },
                                     {
                                       "animationMask": {
@@ -6026,131 +6241,126 @@
                                         {
                                           "children": [
                                             {
-                                              "identifier": "surface:110281-a161121b-888c-4214-a77f-d4156e704aa4",
+                                              "identifier": "surface:236075-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "isMaterialIdentifierEnabled": true,
+                                              "materialIdentifier": "defaultMaterial:235642-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "modelName": "surface",
                                               "name": "surface0",
-                                              "sourceIdentifier": "surface:105531-a161121b-888c-4214-a77f-d4156e704aa4",
-                                              "surfaceGroupIdentifier": "107753-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                              "surfaceGroupIdentifier": "230064-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                             }
                                           ],
-                                          "identifier": "surfaces:110278-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "modelName": "surfaces",
-                                          "sourceIdentifier": "surfaces:105528-a161121b-888c-4214-a77f-d4156e704aa4"
+                                          "identifier": "surfaces:236072-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "modelName": "surfaces"
                                         },
                                         {
-                                          "identifier": "blend_shapes_model:110284-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "modelName": "blend_shapes_model",
-                                          "sourceIdentifier": "blend_shapes_model:105534-a161121b-888c-4214-a77f-d4156e704aa4"
+                                          "identifier": "blend_shapes_model:236078-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "modelName": "blend_shapes_model"
                                         }
                                       ],
                                       "hidden": false,
-                                      "identifier": "mesh:110275-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "layerIdentifier": "layer0",
+                                      "identifier": "mesh:236069-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "layerIdentifier": "layer1",
                                       "modelName": "mesh",
                                       "name": "L-Ear3-Local",
                                       "nodeName": "L-Ear3-Local",
-                                      "numberOfFaces": 52,
+                                      "numberOfFaces": 76,
                                       "outputVisibility": "preview|capture",
                                       "physicsEnabled": false,
-                                      "prefabIdentifier": "gltf:107749-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                                      "prefabIdentifier": "gltf:230060-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                       "receiveShadow": false,
                                       "renderPass": "main_scene",
-                                      "sourceIdentifier": "mesh:105525-a161121b-888c-4214-a77f-d4156e704aa4",
                                       "tags": [],
                                       "transform": {
                                         "rx": 0,
                                         "ry": 0,
                                         "rz": 0,
-                                        "sx": 1,
-                                        "sy": 1,
-                                        "sz": 1,
-                                        "x": 0.0896328017115593,
-                                        "y": 0.44362396001815796,
-                                        "z": 0.08277309685945511
+                                        "sx": 0.9999991655349731,
+                                        "sy": 1.0000001192092896,
+                                        "sz": 0.9999991655349731,
+                                        "x": 0.189970001578331,
+                                        "y": 0.6359800100326538,
+                                        "z": 0.2169400006532669
                                       },
                                       "useEmbeddedBlendshapes": false
                                     }
                                   ],
                                   "hidden": false,
-                                  "identifier": "mesh:110263-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "layerIdentifier": "layer0",
+                                  "identifier": "mesh:236057-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "layerIdentifier": "layer1",
                                   "modelName": "mesh",
                                   "name": "L-Ear2-Local",
                                   "nodeName": "L-Ear2-Local",
-                                  "numberOfFaces": 34,
+                                  "numberOfFaces": 50,
                                   "outputVisibility": "preview|capture",
                                   "physicsEnabled": false,
-                                  "prefabIdentifier": "gltf:107737-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                                  "prefabIdentifier": "gltf:230048-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                   "receiveShadow": false,
                                   "renderPass": "main_scene",
-                                  "sourceIdentifier": "mesh:105513-a161121b-888c-4214-a77f-d4156e704aa4",
                                   "tags": [],
                                   "transform": {
                                     "rx": 0,
                                     "ry": 0,
                                     "rz": 0,
-                                    "sx": 1,
-                                    "sy": 1,
-                                    "sz": 1,
-                                    "x": 0.07179271429777145,
-                                    "y": 0.47899165749549866,
-                                    "z": -0.07916499674320221
+                                    "sx": 0.9999998807907104,
+                                    "sy": 1.000000238418579,
+                                    "sz": 1.000000238418579,
+                                    "x": 0.2702600061893463,
+                                    "y": 0.4214699864387512,
+                                    "z": -0.06983000040054321
                                   },
                                   "useEmbeddedBlendshapes": false
                                 }
                               ],
                               "hidden": false,
-                              "identifier": "mesh:110251-a161121b-888c-4214-a77f-d4156e704aa4",
-                              "layerIdentifier": "layer0",
+                              "identifier": "mesh:236045-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                              "layerIdentifier": "layer1",
                               "modelName": "mesh",
-                              "name": "L-Ear-Local0",
+                              "name": "R-Ear-Local",
                               "nodeName": "L-Ear-Local",
-                              "numberOfFaces": 52,
+                              "numberOfFaces": 74,
                               "outputVisibility": "preview|capture",
                               "physicsEnabled": false,
-                              "prefabIdentifier": "gltf:107725-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                              "prefabIdentifier": "gltf:230036-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                               "receiveShadow": false,
                               "renderPass": "main_scene",
-                              "sourceIdentifier": "mesh:105501-a161121b-888c-4214-a77f-d4156e704aa4",
                               "tags": [],
                               "transform": {
                                 "rx": 0,
                                 "ry": 0,
                                 "rz": 0,
-                                "sx": 0.9999998807907104,
-                                "sy": 0.9999998807907104,
-                                "sz": 0.9999999403953552,
-                                "x": 0.11798787862062454,
-                                "y": 1.1403212547302246,
-                                "z": -0.13173867762088776
+                                "sx": 1,
+                                "sy": 0.9999991655349731,
+                                "sz": 0.9999997019767761,
+                                "x": 0.6200799942016602,
+                                "y": 0.9900699853897095,
+                                "z": -0.22157999873161316
                               },
                               "useEmbeddedBlendshapes": false
                             }
                           ],
-                          "depth": 0.7554130554199219,
-                          "height": 1.7671936750411987,
+                          "depth": 9.801264762878418,
+                          "height": 15.026580810546875,
                           "hidden": true,
-                          "identifier": "master3_d_object_model:110212-a161121b-888c-4214-a77f-d4156e704aa4",
-                          "layerIdentifier": "layer0",
+                          "identifier": "master3_d_object_model:235994-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                          "layerIdentifier": "layer1",
                           "modelName": "3_d_object_instance_model",
                           "name": "BunnyEar_nojoint",
                           "outputVisibility": "preview|capture",
                           "physicsEnabled": false,
-                          "sourceIdentifier": "master3_d_object_model:105459-a161121b-888c-4214-a77f-d4156e704aa4",
+                          "sourceIdentifier": "master3_d_object_model:235993-2bdebd64-0477-460c-919a-9c77bb87ff59",
                           "tags": [],
                           "transform": {
-                            "rx": 0.3995646834373474,
-                            "ry": 0.22062261402606964,
-                            "rz": 0.03779934346675873,
-                            "sx": 0.09870067238807678,
-                            "sy": 0.09870070964097977,
-                            "sz": 0.09870069473981857,
-                            "x": 0.0211400855332613,
-                            "y": 0.023249885067343712,
-                            "z": -0.10692274570465088
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 0.07999997586011887,
+                            "sy": 0.07999999821186066,
+                            "sz": 0.08000002801418304,
+                            "x": 0.009999999776482582,
+                            "y": 0.07213066518306732,
+                            "z": -0.07385873794555664
                           },
-                          "width": 2.2880046367645264
+                          "width": 8.233039855957031
                         },
                         {
                           "animationMask": {
@@ -6380,7 +6590,7 @@
                                     {
                                       "identifier": "surface:110326-a161121b-888c-4214-a77f-d4156e704aa4",
                                       "isMaterialIdentifierEnabled": true,
-                                      "materialIdentifier": "defaultMaterial:105425-a161121b-888c-4214-a77f-d4156e704aa4",
+                                      "materialIdentifier": "defaultMaterial:107584-c9b56506-b1a1-49e0-930d-7a9acfce3be3",
                                       "modelName": "surface",
                                       "name": "surface0",
                                       "sourceIdentifier": "surface:105741-a161121b-888c-4214-a77f-d4156e704aa4",
@@ -6465,10 +6675,10 @@
                           "tags": [],
                           "transform": {
                             "rx": -0.017148643732070923,
-                            "ry": -0.01775248534977436,
+                            "ry": 0.017453292519943295,
                             "rz": -0.017148735001683235,
                             "sx": 0.1415783166885376,
-                            "sy": 0.1343122273683548,
+                            "sy": 0.1943099945783615,
                             "sz": 0.1343121975660324,
                             "x": -0.0015751421451568604,
                             "y": 0.01158113218843937,
@@ -6555,19 +6765,23 @@
                                 {
                                   "children": [
                                     {
-                                      "identifier": "surface:114412-a161121b-888c-4214-a77f-d4156e704aa4",
+                                      "identifier": "surface:242645-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "isMaterialIdentifierEnabled": true,
+                                      "materialIdentifier": "defaultMaterial:242413-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "modelName": "surface",
                                       "name": "surface0",
-                                      "surfaceGroupIdentifier": "107729-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                      "sourceIdentifier": "surface:242522-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "surfaceGroupIdentifier": "230040-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                     }
                                   ],
-                                  "identifier": "surfaces:114409-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "modelName": "surfaces"
+                                  "identifier": "surfaces:242642-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "modelName": "surfaces",
+                                  "sourceIdentifier": "surfaces:242519-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                 },
                                 {
-                                  "identifier": "blend_shapes_model:114415-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "modelName": "blend_shapes_model"
+                                  "identifier": "blend_shapes_model:242648-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "modelName": "blend_shapes_model",
+                                  "sourceIdentifier": "blend_shapes_model:242525-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                 },
                                 {
                                   "animationMask": {
@@ -6581,19 +6795,23 @@
                                     {
                                       "children": [
                                         {
-                                          "identifier": "surface:114424-a161121b-888c-4214-a77f-d4156e704aa4",
+                                          "identifier": "surface:242657-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "isMaterialIdentifierEnabled": true,
+                                          "materialIdentifier": "defaultMaterial:242413-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "modelName": "surface",
                                           "name": "surface0",
-                                          "surfaceGroupIdentifier": "107741-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                          "sourceIdentifier": "surface:242534-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "surfaceGroupIdentifier": "230052-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                         }
                                       ],
-                                      "identifier": "surfaces:114421-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "modelName": "surfaces"
+                                      "identifier": "surfaces:242654-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "modelName": "surfaces",
+                                      "sourceIdentifier": "surfaces:242531-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                     },
                                     {
-                                      "identifier": "blend_shapes_model:114427-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "modelName": "blend_shapes_model"
+                                      "identifier": "blend_shapes_model:242660-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "modelName": "blend_shapes_model",
+                                      "sourceIdentifier": "blend_shapes_model:242537-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                     },
                                     {
                                       "animationMask": {
@@ -6607,60 +6825,66 @@
                                         {
                                           "children": [
                                             {
-                                              "identifier": "surface:114436-a161121b-888c-4214-a77f-d4156e704aa4",
+                                              "identifier": "surface:242669-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "isMaterialIdentifierEnabled": true,
+                                              "materialIdentifier": "defaultMaterial:242413-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "modelName": "surface",
                                               "name": "surface0",
-                                              "surfaceGroupIdentifier": "107753-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                              "sourceIdentifier": "surface:242546-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                              "surfaceGroupIdentifier": "230064-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                             }
                                           ],
-                                          "identifier": "surfaces:114433-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "modelName": "surfaces"
+                                          "identifier": "surfaces:242666-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "modelName": "surfaces",
+                                          "sourceIdentifier": "surfaces:242543-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                         },
                                         {
-                                          "identifier": "blend_shapes_model:114439-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "modelName": "blend_shapes_model"
+                                          "identifier": "blend_shapes_model:242672-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "modelName": "blend_shapes_model",
+                                          "sourceIdentifier": "blend_shapes_model:242549-2bdebd64-0477-460c-919a-9c77bb87ff59"
                                         }
                                       ],
                                       "hidden": false,
-                                      "identifier": "mesh:114430-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "layerIdentifier": "layer0",
+                                      "identifier": "mesh:242663-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "layerIdentifier": "layer1",
                                       "modelName": "mesh",
                                       "name": "L-Ear3-Local",
                                       "nodeName": "L-Ear3-Local",
-                                      "numberOfFaces": 52,
+                                      "numberOfFaces": 76,
                                       "outputVisibility": "preview|capture",
                                       "physicsEnabled": false,
-                                      "prefabIdentifier": "gltf:107749-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                                      "prefabIdentifier": "gltf:230060-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                       "receiveShadow": false,
                                       "renderPass": "main_scene",
+                                      "sourceIdentifier": "mesh:242540-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "tags": [],
                                       "transform": {
                                         "rx": 0,
                                         "ry": 0,
                                         "rz": 0,
-                                        "sx": 1,
-                                        "sy": 1,
-                                        "sz": 1,
-                                        "x": 0.0896328017115593,
-                                        "y": 0.44362396001815796,
-                                        "z": 0.08277309685945511
+                                        "sx": 0.9999998807907104,
+                                        "sy": 0.9999996423721313,
+                                        "sz": 0.9999997615814209,
+                                        "x": 0.07124007493257523,
+                                        "y": 0.7052513957023621,
+                                        "z": 0.15907999873161316
                                       },
                                       "useEmbeddedBlendshapes": false
                                     }
                                   ],
                                   "hidden": false,
-                                  "identifier": "mesh:114418-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "layerIdentifier": "layer0",
+                                  "identifier": "mesh:242651-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "layerIdentifier": "layer1",
                                   "modelName": "mesh",
                                   "name": "L-Ear2-Local",
                                   "nodeName": "L-Ear2-Local",
-                                  "numberOfFaces": 34,
+                                  "numberOfFaces": 50,
                                   "outputVisibility": "preview|capture",
                                   "physicsEnabled": false,
-                                  "prefabIdentifier": "gltf:107737-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                                  "prefabIdentifier": "gltf:230048-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                   "receiveShadow": false,
                                   "renderPass": "main_scene",
+                                  "sourceIdentifier": "mesh:242528-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                   "tags": [],
                                   "transform": {
                                     "rx": 0,
@@ -6669,36 +6893,37 @@
                                     "sx": 1,
                                     "sy": 1,
                                     "sz": 1,
-                                    "x": 0.07179271429777145,
-                                    "y": 0.47899165749549866,
-                                    "z": -0.07916499674320221
+                                    "x": 0.255840003490448,
+                                    "y": 0.5728200078010559,
+                                    "z": -0.030996324494481087
                                   },
                                   "useEmbeddedBlendshapes": false
                                 }
                               ],
                               "hidden": false,
-                              "identifier": "mesh:114406-a161121b-888c-4214-a77f-d4156e704aa4",
-                              "layerIdentifier": "layer0",
+                              "identifier": "mesh:242639-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                              "layerIdentifier": "layer1",
                               "modelName": "mesh",
                               "name": "L-Ear-Local",
                               "nodeName": "L-Ear-Local",
-                              "numberOfFaces": 52,
+                              "numberOfFaces": 74,
                               "outputVisibility": "preview|capture",
                               "physicsEnabled": false,
-                              "prefabIdentifier": "gltf:107725-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                              "prefabIdentifier": "gltf:230036-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                               "receiveShadow": false,
                               "renderPass": "main_scene",
+                              "sourceIdentifier": "mesh:242516-2bdebd64-0477-460c-919a-9c77bb87ff59",
                               "tags": [],
                               "transform": {
-                                "rx": -3.725290298461914E-8,
-                                "ry": -2.980232594040899E-8,
-                                "rz": -1.862645371275562E-9,
-                                "sx": 0.9999998807907104,
-                                "sy": 0.9999997615814209,
-                                "sz": 0.9999998211860657,
-                                "x": -0.4985795021057129,
-                                "y": 1.0735194683074951,
-                                "z": -0.2615928649902344
+                                "rx": 0,
+                                "ry": 0,
+                                "rz": 0,
+                                "sx": 0.9999997615814209,
+                                "sy": 1.0000005960464478,
+                                "sz": 1.0000004768371582,
+                                "x": -0.728950023651123,
+                                "y": 1.0671000480651855,
+                                "z": -0.2423900067806244
                               },
                               "useEmbeddedBlendshapes": false
                             },
@@ -6714,22 +6939,20 @@
                                 {
                                   "children": [
                                     {
-                                      "identifier": "surface:114448-a161121b-888c-4214-a77f-d4156e704aa4",
+                                      "identifier": "surface:242681-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "isMaterialIdentifierEnabled": true,
+                                      "materialIdentifier": "defaultMaterial:242413-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                       "modelName": "surface",
                                       "name": "surface0",
-                                      "sourceIdentifier": "surface:105507-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "surfaceGroupIdentifier": "107729-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                      "surfaceGroupIdentifier": "230040-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                     }
                                   ],
-                                  "identifier": "surfaces:114445-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "modelName": "surfaces",
-                                  "sourceIdentifier": "surfaces:105504-a161121b-888c-4214-a77f-d4156e704aa4"
+                                  "identifier": "surfaces:242678-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "modelName": "surfaces"
                                 },
                                 {
-                                  "identifier": "blend_shapes_model:114451-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "modelName": "blend_shapes_model",
-                                  "sourceIdentifier": "blend_shapes_model:105510-a161121b-888c-4214-a77f-d4156e704aa4"
+                                  "identifier": "blend_shapes_model:242684-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "modelName": "blend_shapes_model"
                                 },
                                 {
                                   "animationMask": {
@@ -6743,22 +6966,20 @@
                                     {
                                       "children": [
                                         {
-                                          "identifier": "surface:114460-a161121b-888c-4214-a77f-d4156e704aa4",
+                                          "identifier": "surface:242693-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "isMaterialIdentifierEnabled": true,
+                                          "materialIdentifier": "defaultMaterial:242413-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                           "modelName": "surface",
                                           "name": "surface0",
-                                          "sourceIdentifier": "surface:105519-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "surfaceGroupIdentifier": "107741-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                          "surfaceGroupIdentifier": "230052-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                         }
                                       ],
-                                      "identifier": "surfaces:114457-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "modelName": "surfaces",
-                                      "sourceIdentifier": "surfaces:105516-a161121b-888c-4214-a77f-d4156e704aa4"
+                                      "identifier": "surfaces:242690-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "modelName": "surfaces"
                                     },
                                     {
-                                      "identifier": "blend_shapes_model:114463-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "modelName": "blend_shapes_model",
-                                      "sourceIdentifier": "blend_shapes_model:105522-a161121b-888c-4214-a77f-d4156e704aa4"
+                                      "identifier": "blend_shapes_model:242696-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "modelName": "blend_shapes_model"
                                     },
                                     {
                                       "animationMask": {
@@ -6772,131 +6993,126 @@
                                         {
                                           "children": [
                                             {
-                                              "identifier": "surface:114472-a161121b-888c-4214-a77f-d4156e704aa4",
+                                              "identifier": "surface:242705-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "isMaterialIdentifierEnabled": true,
+                                              "materialIdentifier": "defaultMaterial:242413-2bdebd64-0477-460c-919a-9c77bb87ff59",
                                               "modelName": "surface",
                                               "name": "surface0",
-                                              "sourceIdentifier": "surface:105531-a161121b-888c-4214-a77f-d4156e704aa4",
-                                              "surfaceGroupIdentifier": "107753-1c8c40df-c307-4ea4-a112-d04f7f34da3e"
+                                              "surfaceGroupIdentifier": "230064-4851f8c6-3fce-4627-8b70-bd46696bcc6b"
                                             }
                                           ],
-                                          "identifier": "surfaces:114469-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "modelName": "surfaces",
-                                          "sourceIdentifier": "surfaces:105528-a161121b-888c-4214-a77f-d4156e704aa4"
+                                          "identifier": "surfaces:242702-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "modelName": "surfaces"
                                         },
                                         {
-                                          "identifier": "blend_shapes_model:114475-a161121b-888c-4214-a77f-d4156e704aa4",
-                                          "modelName": "blend_shapes_model",
-                                          "sourceIdentifier": "blend_shapes_model:105534-a161121b-888c-4214-a77f-d4156e704aa4"
+                                          "identifier": "blend_shapes_model:242708-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                          "modelName": "blend_shapes_model"
                                         }
                                       ],
                                       "hidden": false,
-                                      "identifier": "mesh:114466-a161121b-888c-4214-a77f-d4156e704aa4",
-                                      "layerIdentifier": "layer0",
+                                      "identifier": "mesh:242699-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                      "layerIdentifier": "layer1",
                                       "modelName": "mesh",
                                       "name": "L-Ear3-Local",
                                       "nodeName": "L-Ear3-Local",
-                                      "numberOfFaces": 52,
+                                      "numberOfFaces": 76,
                                       "outputVisibility": "preview|capture",
                                       "physicsEnabled": false,
-                                      "prefabIdentifier": "gltf:107749-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                                      "prefabIdentifier": "gltf:230060-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                       "receiveShadow": false,
                                       "renderPass": "main_scene",
-                                      "sourceIdentifier": "mesh:105525-a161121b-888c-4214-a77f-d4156e704aa4",
                                       "tags": [],
                                       "transform": {
                                         "rx": 0,
                                         "ry": 0,
                                         "rz": 0,
-                                        "sx": 1,
-                                        "sy": 1,
-                                        "sz": 1,
-                                        "x": 0.0896328017115593,
-                                        "y": 0.44362396001815796,
-                                        "z": 0.08277309685945511
+                                        "sx": 0.9999991655349731,
+                                        "sy": 1.0000001192092896,
+                                        "sz": 0.9999991655349731,
+                                        "x": 0.189970001578331,
+                                        "y": 0.6359800100326538,
+                                        "z": 0.2169400006532669
                                       },
                                       "useEmbeddedBlendshapes": false
                                     }
                                   ],
                                   "hidden": false,
-                                  "identifier": "mesh:114454-a161121b-888c-4214-a77f-d4156e704aa4",
-                                  "layerIdentifier": "layer0",
+                                  "identifier": "mesh:242687-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                                  "layerIdentifier": "layer1",
                                   "modelName": "mesh",
                                   "name": "L-Ear2-Local",
                                   "nodeName": "L-Ear2-Local",
-                                  "numberOfFaces": 34,
+                                  "numberOfFaces": 50,
                                   "outputVisibility": "preview|capture",
                                   "physicsEnabled": false,
-                                  "prefabIdentifier": "gltf:107737-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                                  "prefabIdentifier": "gltf:230048-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                                   "receiveShadow": false,
                                   "renderPass": "main_scene",
-                                  "sourceIdentifier": "mesh:105513-a161121b-888c-4214-a77f-d4156e704aa4",
                                   "tags": [],
                                   "transform": {
                                     "rx": 0,
                                     "ry": 0,
                                     "rz": 0,
-                                    "sx": 1,
-                                    "sy": 1,
-                                    "sz": 1,
-                                    "x": 0.07179271429777145,
-                                    "y": 0.47899165749549866,
-                                    "z": -0.07916499674320221
+                                    "sx": 0.9999998807907104,
+                                    "sy": 1.000000238418579,
+                                    "sz": 1.000000238418579,
+                                    "x": 0.2702600061893463,
+                                    "y": 0.4214699864387512,
+                                    "z": -0.06983000040054321
                                   },
                                   "useEmbeddedBlendshapes": false
                                 }
                               ],
                               "hidden": false,
-                              "identifier": "mesh:114442-a161121b-888c-4214-a77f-d4156e704aa4",
-                              "layerIdentifier": "layer0",
+                              "identifier": "mesh:242675-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                              "layerIdentifier": "layer1",
                               "modelName": "mesh",
-                              "name": "L-Ear-Local0",
+                              "name": "R-Ear-Local",
                               "nodeName": "L-Ear-Local",
-                              "numberOfFaces": 52,
+                              "numberOfFaces": 74,
                               "outputVisibility": "preview|capture",
                               "physicsEnabled": false,
-                              "prefabIdentifier": "gltf:107725-1c8c40df-c307-4ea4-a112-d04f7f34da3e",
+                              "prefabIdentifier": "gltf:230036-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
                               "receiveShadow": false,
                               "renderPass": "main_scene",
-                              "sourceIdentifier": "mesh:105501-a161121b-888c-4214-a77f-d4156e704aa4",
                               "tags": [],
                               "transform": {
                                 "rx": 0,
                                 "ry": 0,
                                 "rz": 0,
-                                "sx": 0.9999998807907104,
-                                "sy": 0.9999998807907104,
-                                "sz": 0.9999999403953552,
-                                "x": 0.11798787862062454,
-                                "y": 1.1403212547302246,
-                                "z": -0.13173867762088776
+                                "sx": 1,
+                                "sy": 0.9999991655349731,
+                                "sz": 0.9999997019767761,
+                                "x": 0.6200799942016602,
+                                "y": 0.9900699853897095,
+                                "z": -0.22157999873161316
                               },
                               "useEmbeddedBlendshapes": false
                             }
                           ],
-                          "depth": 0.7554130554199219,
-                          "height": 1.7671936750411987,
+                          "depth": 9.801264762878418,
+                          "height": 15.026580810546875,
                           "hidden": true,
-                          "identifier": "master3_d_object_model:114403-a161121b-888c-4214-a77f-d4156e704aa4",
-                          "layerIdentifier": "layer0",
+                          "identifier": "master3_d_object_model:242636-2bdebd64-0477-460c-919a-9c77bb87ff59",
+                          "layerIdentifier": "layer1",
                           "modelName": "3_d_object_instance_model",
                           "name": "BunnyEar_nojoint",
                           "outputVisibility": "preview|capture",
                           "physicsEnabled": false,
-                          "sourceIdentifier": "master3_d_object_model:105459-a161121b-888c-4214-a77f-d4156e704aa4",
+                          "sourceIdentifier": "master3_d_object_model:242513-2bdebd64-0477-460c-919a-9c77bb87ff59",
                           "tags": [],
                           "transform": {
-                            "rx": 0.3995646834373474,
-                            "ry": 0.22062261402606964,
-                            "rz": 0.03779934346675873,
-                            "sx": 0.09870067238807678,
-                            "sy": 0.09870070964097977,
-                            "sz": 0.09870069473981857,
-                            "x": 0.0211400855332613,
-                            "y": 0.023249885067343712,
-                            "z": -0.10692274570465088
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 0.07999997586011887,
+                            "sy": 0.07999999821186066,
+                            "sz": 0.08000002801418304,
+                            "x": 0.009999999776482582,
+                            "y": 0.07213066518306732,
+                            "z": -0.07385873794555664
                           },
-                          "width": 2.2880046367645264
+                          "width": 8.233039855957031
                         },
                         {
                           "animationMask": {
@@ -7126,7 +7342,7 @@
                                     {
                                       "identifier": "surface:114517-a161121b-888c-4214-a77f-d4156e704aa4",
                                       "isMaterialIdentifierEnabled": true,
-                                      "materialIdentifier": "defaultMaterial:105425-a161121b-888c-4214-a77f-d4156e704aa4",
+                                      "materialIdentifier": "defaultMaterial:107584-c9b56506-b1a1-49e0-930d-7a9acfce3be3",
                                       "modelName": "surface",
                                       "name": "surface0",
                                       "sourceIdentifier": "surface:105741-a161121b-888c-4214-a77f-d4156e704aa4",
@@ -7211,10 +7427,10 @@
                           "tags": [],
                           "transform": {
                             "rx": -0.017148643732070923,
-                            "ry": -0.01775248534977436,
+                            "ry": 0.017453292519943295,
                             "rz": -0.017148735001683235,
                             "sx": 0.1415783166885376,
-                            "sy": 0.1343122273683548,
+                            "sy": 0.1943099945783615,
                             "sz": 0.1343121975660324,
                             "x": -0.0015751421451568604,
                             "y": 0.01158113218843937,
@@ -7266,7 +7482,7 @@
                               "multiplier": 1,
                               "unitBase": 10
                             },
-                            "value": 738.46154
+                            "value": 738.4615478515625
                           },
                           "hidden": false,
                           "horizontalAlignment": "center",
@@ -7362,7 +7578,7 @@
                               "multiplier": 1,
                               "unitBase": 10
                             },
-                            "value": 300.000000625
+                            "value": 300
                           }
                         },
                         {
@@ -7398,7 +7614,7 @@
                               "multiplier": 1,
                               "unitBase": 10
                             },
-                            "value": 0
+                            "value": 0.00000785156248639396
                           },
                           "pinnedHorizontalCenterValue": {
                             "unit": {
@@ -7421,7 +7637,7 @@
                               "multiplier": 1,
                               "unitBase": 10
                             },
-                            "value": 0
+                            "value": -6.24999984211172E-7
                           },
                           "pinnedTop": false,
                           "pinnedTopValue": {
@@ -7463,8 +7679,8 @@
                             "sx": 1,
                             "sy": 1,
                             "sz": 1,
-                            "x": 0,
-                            "y": 0,
+                            "x": 90,
+                            "y": 105.53844451904297,
                             "z": 0
                           },
                           "usesFlexibleHeight": false,
@@ -7484,7 +7700,7 @@
                             "rotation": false,
                             "scale": false
                           },
-                          "aspectRatioValue": 1.7777777777777777,
+                          "aspectRatioValue": 1.9834710743801653,
                           "cameraVisibility": "back|front",
                           "fillMode": "none",
                           "height": {
@@ -7492,7 +7708,7 @@
                               "multiplier": 1,
                               "unitBase": 10
                             },
-                            "value": 196.875
+                            "value": 201.66668701171875
                           },
                           "hidden": false,
                           "horizontalAlignment": "center",
@@ -7511,14 +7727,14 @@
                               "multiplier": 1,
                               "unitBase": 10
                             },
-                            "value": 0
+                            "value": -2.842170943040401E-14
                           },
                           "pinnedHorizontalCenterValue": {
                             "unit": {
                               "multiplier": 1,
                               "unitBase": 20
                             },
-                            "value": 0
+                            "value": 1.2820576923076907
                           },
                           "pinnedLeft": false,
                           "pinnedLeftValue": {
@@ -7576,8 +7792,8 @@
                             "sx": 1,
                             "sy": 1,
                             "sz": 1,
-                            "x": 20,
-                            "y": 647.125,
+                            "x": 0,
+                            "y": 642.3333129882812,
                             "z": 0
                           },
                           "usesFlexibleHeight": false,
@@ -7588,7 +7804,7 @@
                               "multiplier": 1,
                               "unitBase": 10
                             },
-                            "value": 350
+                            "value": 400.00006103515625
                           }
                         },
                         {
@@ -7597,7 +7813,7 @@
                             "rotation": false,
                             "scale": false
                           },
-                          "aspectRatioValue": 1.7777777777777777,
+                          "aspectRatioValue": 4.521739130434782,
                           "cameraVisibility": "back|front",
                           "fillMode": "none",
                           "height": {
@@ -7605,7 +7821,7 @@
                               "multiplier": 1,
                               "unitBase": 10
                             },
-                            "value": 196.875
+                            "value": 110.57691955566406
                           },
                           "hidden": false,
                           "horizontalAlignment": "center",
@@ -7689,7 +7905,7 @@
                             "sx": 1,
                             "sy": 1,
                             "sz": 1,
-                            "x": 20,
+                            "x": -55,
                             "y": 0,
                             "z": 0
                           },
@@ -7701,7 +7917,7 @@
                               "multiplier": 1,
                               "unitBase": 10
                             },
-                            "value": 350
+                            "value": 500
                           }
                         }
                       ],
@@ -9414,7 +9630,7 @@
   "creatorIdentifier": "com.facebook.arstudio.skylight",
   "creatorPlatform": "macosx",
   "documentType": "effect",
-  "id": "419045874d6103752e4dc289667172ddc4d2fb",
+  "id": "1592392bdebd640477460c919a9c77bb87ff59",
   "identifier": "document:6-544c31eb-70cb-4054-a7e5-abd0bc04e7fe",
   "measurementUnit": "meter",
   "modelName": "document",
@@ -9447,10 +9663,11 @@
     "8328c4f31f8b095e4f9b89150057a7e464e6",
     "97212cf96b761996b4096a0fac1f7b713e0ab",
     "95754d3707c6eedc343a38157657bed80600e",
-    "644524f1572d07300d4e29aa2aa195c49bf7dc"
+    "644524f1572d07300d4e29aa2aa195c49bf7dc",
+    "419045874d6103752e4dc289667172ddc4d2fb"
   ],
   "projectFormatType": "single_file",
-  "revision": "3296824851f8c63fce46278b70bd46696bcc6b",
+  "revision": "2849282bdebd640477460c919a9c77bb87ff59",
   "usingPatchesV2": true,
   "version": {
     "dev": 0,
@@ -9489,14 +9706,6 @@
         "identifier": "patch_connection_model:108265-a161121b-888c-4214-a77f-d4156e704aa4",
         "modelName": "patch_connection_model",
         "toPatch": "consumer_patch_model:108263-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:123435-3630419f-7656-49c2-a6f5-47f9368d7841",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:108269-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:108267-a161121b-888c-4214-a77f-d4156e704aa4",
         "toPort": "101"
       },
       {
@@ -9748,54 +9957,6 @@
         "toPort": "2"
       },
       {
-        "fromPatch": "template_patch_model:109797-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:109825-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:109823-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:109727-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:109829-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:109827-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:109763-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:109833-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:109831-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:109785-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:109837-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:109835-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:109773-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:109841-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:109839-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:109783-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:109845-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:109843-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
         "fromPatch": "template_patch_model:112078-a161121b-888c-4214-a77f-d4156e704aa4",
         "fromPort": "101",
         "identifier": "patch_connection_model:112082-a161121b-888c-4214-a77f-d4156e704aa4",
@@ -10042,54 +10203,6 @@
         "modelName": "patch_connection_model",
         "toPatch": "template_patch_model:113878-a161121b-888c-4214-a77f-d4156e704aa4",
         "toPort": "1"
-      },
-      {
-        "fromPatch": "template_patch_model:113894-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:113926-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:113924-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:113830-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:113930-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:113928-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:113874-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:113934-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:113932-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:113870-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:113938-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:113936-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:113890-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:113942-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:113940-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:113836-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:113946-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:113944-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
       },
       {
         "fromPatch": "template_patch_model:118415-a161121b-888c-4214-a77f-d4156e704aa4",
@@ -10340,54 +10453,6 @@
         "toPort": "1"
       },
       {
-        "fromPatch": "template_patch_model:118459-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:118481-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:118479-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:118403-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:118485-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:118483-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:118425-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:118489-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:118487-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:118427-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:118493-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:118491-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:118417-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:118497-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:118495-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:118419-a161121b-888c-4214-a77f-d4156e704aa4",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:118501-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:118499-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
         "fromPatch": "template_patch_model:123439-3630419f-7656-49c2-a6f5-47f9368d7841",
         "fromPort": "100",
         "identifier": "patch_connection_model:118505-a161121b-888c-4214-a77f-d4156e704aa4",
@@ -10417,22 +10482,6 @@
         "identifier": "patch_connection_model:118517-a161121b-888c-4214-a77f-d4156e704aa4",
         "modelName": "patch_connection_model",
         "toPatch": "consumer_patch_model:118515-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:123435-3630419f-7656-49c2-a6f5-47f9368d7841",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:118521-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:118519-a161121b-888c-4214-a77f-d4156e704aa4",
-        "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:123435-3630419f-7656-49c2-a6f5-47f9368d7841",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:118525-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "patch_connection_model",
-        "toPatch": "consumer_patch_model:118523-a161121b-888c-4214-a77f-d4156e704aa4",
         "toPort": "101"
       },
       {
@@ -10580,12 +10629,124 @@
         "toPort": "1"
       },
       {
+        "fromPatch": "template_patch_model:123435-3630419f-7656-49c2-a6f5-47f9368d7841",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:226434-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:226432-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:109797-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:226438-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:226436-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:109727-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:226442-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:226440-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:109763-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:226446-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:226444-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:109785-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:226450-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:226448-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:109773-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:226454-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:226452-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:109783-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:226458-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:226456-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
         "fromPatch": "template_patch_model:230826-cf96b761-996b-4096-a0fa-c1f7b713e0ab",
         "fromPort": "100",
         "identifier": "patch_connection_model:231120-cf96b761-996b-4096-a0fa-c1f7b713e0ab",
         "modelName": "patch_connection_model",
         "toPatch": "template_patch_model:230883-cf96b761-996b-4096-a0fa-c1f7b713e0ab",
         "toPort": "1"
+      },
+      {
+        "fromPatch": "template_patch_model:123435-3630419f-7656-49c2-a6f5-47f9368d7841",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:237852-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:237850-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:113870-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:237856-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:237854-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:113890-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:237860-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:237858-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:113836-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:237864-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:237862-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:113894-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:237868-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:237866-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:113830-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:237872-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:237870-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:113874-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:237876-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:237874-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
       },
       {
         "fromPatch": "template_patch_model:240682-cf96b761-996b-4096-a0fa-c1f7b713e0ab",
@@ -10658,6 +10819,62 @@
         "modelName": "patch_connection_model",
         "toPatch": "template_patch_model:243561-cf96b761-996b-4096-a0fa-c1f7b713e0ab",
         "toPort": "1"
+      },
+      {
+        "fromPatch": "template_patch_model:123435-3630419f-7656-49c2-a6f5-47f9368d7841",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:244762-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:244760-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:118459-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:244766-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:244764-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:118403-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:244770-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:244768-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:118425-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:244774-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:244772-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:118427-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:244778-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:244776-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:118417-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:244782-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:244780-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
+      },
+      {
+        "fromPatch": "template_patch_model:118419-a161121b-888c-4214-a77f-d4156e704aa4",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:244786-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "patch_connection_model",
+        "toPatch": "consumer_patch_model:244784-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "toPort": "101"
       },
       {
         "fromPatch": "template_patch_model:277500-cf96b761-996b-4096-a0fa-c1f7b713e0ab",
@@ -11027,36 +11244,36 @@
         "subpatches": [
           "consumer_patch_model:108259-a161121b-888c-4214-a77f-d4156e704aa4",
           "consumer_patch_model:108263-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:108267-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:109823-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:109827-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:109831-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:109835-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:109839-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:109843-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:113924-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:113928-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:113932-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:113936-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:113940-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:113944-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:118479-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:118483-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:118487-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:118491-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:118495-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:118499-a161121b-888c-4214-a77f-d4156e704aa4",
           "consumer_patch_model:118503-a161121b-888c-4214-a77f-d4156e704aa4",
           "consumer_patch_model:118507-a161121b-888c-4214-a77f-d4156e704aa4",
           "consumer_patch_model:118511-a161121b-888c-4214-a77f-d4156e704aa4",
           "consumer_patch_model:118515-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:118519-a161121b-888c-4214-a77f-d4156e704aa4",
-          "consumer_patch_model:118523-a161121b-888c-4214-a77f-d4156e704aa4",
           "consumer_patch_model:123443-3630419f-7656-49c2-a6f5-47f9368d7841",
           "consumer_patch_model:125811-3630419f-7656-49c2-a6f5-47f9368d7841",
           "consumer_patch_model:135073-cf96b761-996b-4096-a0fa-c1f7b713e0ab",
           "consumer_patch_model:160833-50cfa6f6-f286-4f03-bb45-cbc559087072",
           "consumer_patch_model:185098-a161121b-888c-4214-a77f-d4156e704aa4",
+          "consumer_patch_model:226432-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:226436-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:226440-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:226444-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:226448-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:226452-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:226456-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:237850-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:237854-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:237858-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:237862-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:237866-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:237870-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:237874-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:244760-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:244764-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:244768-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:244772-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:244776-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:244780-2bdebd64-0477-460c-919a-9c77bb87ff59",
+          "consumer_patch_model:244784-2bdebd64-0477-460c-919a-9c77bb87ff59",
           "consumer_patch_model:264212-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
           "consumer_patch_model:264216-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
           "consumer_patch_model:264220-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
@@ -11234,476 +11451,6 @@
         ]
       },
       {
-        "identifier": "consumer_patch_model:108267-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "BunnyEar_nojoint",
-        "object": "master3_d_object_model:105624-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "visible",
-        "position": [
-          -268,
-          500
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "bool",
-              "v": false
-            }
-          }
-        ]
-      },
-      {
-        "identifier": "consumer_patch_model:109823-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear-Local",
-        "object": "mesh:105627-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1820,
-          1556
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                -0.0000021344341156289847,
-                -0.0000017075474960586874,
-                -1.0672171850366796E-7
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:109827-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear2-Local",
-        "object": "mesh:105639-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1820,
-          1700
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:109831-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear3-Local",
-        "object": "mesh:105651-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1796,
-          1844
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:109835-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear-Local0",
-        "object": "mesh:105663-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1844,
-          1364
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:109839-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear2-Local",
-        "object": "mesh:105675-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1844,
-          1244
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:109843-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear3-Local",
-        "object": "mesh:105687-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1868,
-          1124
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:113924-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear-Local0",
-        "object": "mesh:110251-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1820,
-          2348
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:113928-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear2-Local",
-        "object": "mesh:110263-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1844,
-          2180
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:113932-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear3-Local",
-        "object": "mesh:110275-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1844,
-          2060
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:113936-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear-Local",
-        "object": "mesh:110215-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1844,
-          2492
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                -0.0000021344341156289847,
-                -0.0000017075474960586874,
-                -1.0672171850366796E-7
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:113940-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear2-Local",
-        "object": "mesh:110227-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1844,
-          2636
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:113944-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear3-Local",
-        "object": "mesh:110239-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1844,
-          2780
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:118479-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear-Local",
-        "object": "mesh:114406-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1772,
-          3476
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                -0.0000021344341156289847,
-                -0.0000017075474960586874,
-                -1.0672171850366796E-7
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:118483-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear2-Local",
-        "object": "mesh:114418-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1748,
-          3596
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:118487-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear3-Local",
-        "object": "mesh:114430-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1724,
-          3764
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:118491-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear-Local0",
-        "object": "mesh:114442-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1772,
-          3332
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:118495-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear2-Local",
-        "object": "mesh:114454-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1772,
-          3188
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "identifier": "consumer_patch_model:118499-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "L-Ear3-Local",
-        "object": "mesh:114466-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "rotation",
-        "position": [
-          1772,
-          3044
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
         "identifier": "consumer_patch_model:118503-a161121b-888c-4214-a77f-d4156e704aa4",
         "modelName": "consumer_patch_model",
         "name": "Glasses",
@@ -11779,46 +11526,6 @@
             "value": {
               "t": "bool",
               "v": true
-            }
-          }
-        ]
-      },
-      {
-        "identifier": "consumer_patch_model:118519-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "BunnyEar_nojoint",
-        "object": "master3_d_object_model:110212-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "visible",
-        "position": [
-          -268,
-          596
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "bool",
-              "v": false
-            }
-          }
-        ]
-      },
-      {
-        "identifier": "consumer_patch_model:118523-a161121b-888c-4214-a77f-d4156e704aa4",
-        "modelName": "consumer_patch_model",
-        "name": "BunnyEar_nojoint",
-        "object": "master3_d_object_model:114403-a161121b-888c-4214-a77f-d4156e704aa4",
-        "objectProperty": "visible",
-        "position": [
-          -268,
-          692
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "bool",
-              "v": false
             }
           }
         ]
@@ -11906,6 +11613,516 @@
             }
           }
         ]
+      },
+      {
+        "identifier": "consumer_patch_model:226432-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "BunnyEar_nojoint",
+        "object": "master3_d_object_model:224443-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "visible",
+        "position": [
+          -268,
+          500
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "bool",
+              "v": false
+            }
+          }
+        ]
+      },
+      {
+        "identifier": "consumer_patch_model:226436-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear-Local",
+        "object": "mesh:224446-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2204,
+          1580
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:226440-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear2-Local",
+        "object": "mesh:224458-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2204,
+          1748
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:226444-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear3-Local",
+        "object": "mesh:224470-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2204,
+          1868
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:226448-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "R-Ear-Local",
+        "object": "mesh:224482-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2228,
+          1388
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:226452-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear2-Local",
+        "object": "mesh:224494-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2228,
+          1244
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:226456-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear3-Local",
+        "object": "mesh:224506-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2252,
+          1148
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:237850-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "BunnyEar_nojoint",
+        "object": "master3_d_object_model:235994-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "visible",
+        "position": [
+          -268,
+          596
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "bool",
+              "v": false
+            }
+          }
+        ]
+      },
+      {
+        "identifier": "consumer_patch_model:237854-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear-Local",
+        "object": "mesh:235998-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2228,
+          2516
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:237858-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear2-Local",
+        "object": "mesh:236014-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2228,
+          2636
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:237862-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear3-Local",
+        "object": "mesh:236030-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2228,
+          2780
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:237866-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "R-Ear-Local",
+        "object": "mesh:236045-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2204,
+          2324
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:237870-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear2-Local",
+        "object": "mesh:236057-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2228,
+          2180
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:237874-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear3-Local",
+        "object": "mesh:236069-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2204,
+          2060
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:244760-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "BunnyEar_nojoint",
+        "object": "master3_d_object_model:242636-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "visible",
+        "position": [
+          -268,
+          692
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "bool",
+              "v": false
+            }
+          }
+        ]
+      },
+      {
+        "identifier": "consumer_patch_model:244764-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear-Local",
+        "object": "mesh:242639-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2132,
+          3500
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:244768-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear2-Local",
+        "object": "mesh:242651-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2156,
+          3644
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:244772-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear3-Local",
+        "object": "mesh:242663-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2156,
+          3788
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:244776-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "R-Ear-Local",
+        "object": "mesh:242675-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2156,
+          3332
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:244780-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear2-Local",
+        "object": "mesh:242687-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2156,
+          3188
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "identifier": "consumer_patch_model:244784-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "modelName": "consumer_patch_model",
+        "name": "L-Ear3-Local",
+        "object": "mesh:242699-2bdebd64-0477-460c-919a-9c77bb87ff59",
+        "objectProperty": "rotation",
+        "position": [
+          2156,
+          3044
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
       },
       {
         "identifier": "consumer_patch_model:264212-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
@@ -12096,8 +12313,8 @@
         "object": "composition_model:339088-4851f8c6-3fce-4627-8b70-bd46696bcc6b",
         "objectProperty": "visible",
         "position": [
-          -76,
-          476
+          -100,
+          500
         ],
         "values": [
           {
@@ -12658,8 +12875,8 @@
               "t": "vec3",
               "v": [
                 0,
-                0,
-                -10
+                -20,
+                -5
               ]
             }
           }
@@ -12719,9 +12936,9 @@
             "value": {
               "t": "vec3",
               "v": [
-                0,
-                0,
-                20
+                10,
+                -5,
+                30
               ]
             }
           }
@@ -12947,9 +13164,9 @@
             "value": {
               "t": "vec3",
               "v": [
-                0,
-                0,
-                20
+                10,
+                -5,
+                30
               ]
             }
           }
@@ -13076,8 +13293,8 @@
               "t": "vec3",
               "v": [
                 0,
-                0,
-                -10
+                -20,
+                -5
               ]
             }
           }
@@ -13457,8 +13674,8 @@
               "t": "vec3",
               "v": [
                 0,
-                0,
-                -10
+                -20,
+                -5
               ]
             }
           }
@@ -13565,9 +13782,9 @@
             "value": {
               "t": "vec3",
               "v": [
-                0,
-                0,
-                20
+                10,
+                -5,
+                30
               ]
             }
           }
@@ -13997,8 +14214,8 @@
               "t": "vec3",
               "v": [
                 0,
-                0,
-                -10
+                -20,
+                -5
               ]
             }
           }
@@ -14140,8 +14357,8 @@
             "value": {
               "t": "vec3",
               "v": [
-                0,
-                -20,
+                10,
+                -5,
                 30
               ]
             }
